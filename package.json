@@ -9,9 +9,9 @@
   "author": "yodfhafx",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
-    "body-parser": "*",
-    "nodemailer": "*",
-    "pug": "*"
+    "express": "~4.16.4",
+    "body-parser": "~1.18.3",
+    "nodemailer": "~5.0.0",
+    "pug": "~2.0.3"
   }
 }
